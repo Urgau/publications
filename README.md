@@ -1,2 +1,0 @@
-# publications
-My publications
